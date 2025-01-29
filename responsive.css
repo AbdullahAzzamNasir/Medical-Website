@@ -1,0 +1,236 @@
+@media (min-width:992px) and (max-width:1024px)
+{
+    .heroContent h1 {
+        font-size: 50px;
+    }
+    .clientParent {
+        max-width: 400px;
+    }
+    .departSection {
+        padding: 100px 0;
+    }
+    section.ourImpression {
+        padding: 100px 0;
+    }
+    .clientSection {
+        padding: 150px 0 150px;
+    }
+    .newsLetter {
+        padding: 150px 0 60px;
+    }
+    .footerColumnLast {
+        max-width: 30%;
+        width: 100%;
+    }
+    .footerColumn {
+        max-width: 17%;
+        width: 100%;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px)
+{
+    .navSection {
+        padding-bottom: 50px;
+    }
+    .navSection .container{
+        padding: 50px 0;
+    }
+    .logoDiv.w-20{
+        max-width: 25%;
+        width: 25%;
+    }
+    .menuDivs.w-80{
+        max-width: 75%;
+        width: 75%;
+    }
+    .menuItems ul li a, .menuBtns a{
+        display: inline-block;
+    }
+    .menuItems.w-64{
+        max-width: 60%;
+        width: 60%;
+    }
+    .menuBtns.w-36{
+        max-width: 40%;
+        width: 40%;
+    }
+    .heroContent h1 {
+        font-size: 40px;
+        line-height: 60px;
+    }
+    .clientParent {
+        max-width: 350px;
+    }
+    .departSection {
+        padding: 80px 0;
+    }
+    section.ourImpression {
+        padding: 80px 0;
+    }
+    .clientSection {
+        padding: 100px 0 100px;
+    }
+    .newsLetter {
+        padding: 100px 0 60px;
+    }
+    .departImg.w-60.text-center {
+        max-width: 50%;
+        width: 50%;
+        padding: 0 20px;
+    }
+    .departImg img{
+        width: 100%;
+    }
+    .departContent.w-40{
+        max-width: 50%;
+        width: 50%;
+    }
+    .featuresBox.w-28{
+        max-width: 40%;
+        width: 40%;
+    
+    }
+    .footerColumn {
+        max-width: 25%;
+        width: 100%;
+    }
+    .footerColumnLast {
+        max-width: 100%;
+        width: 100%;
+        text-align: center;
+        margin-top: 30px;
+    }
+    
+}
+
+@media screen and (max-width:767px)
+{
+    .navSection {
+        background-size: cover;
+        padding-bottom: 50px;
+    }    
+    .heroContent, .heroImage  {
+        padding: 0 25px;
+        width: 100%;
+        margin: 20px 0;
+    }
+    .heroContent h1 {
+        font-size: 35px;
+        line-height: normal;
+    }
+    .heroBtn a {
+        padding: 10px 30px;
+    }
+    section.ourImpression,.departSection,.clientSection {
+        padding: 100px 0;
+    }
+    section.ourImpression .featuresBox:last-child {
+        margin-top: 20px;
+    }
+    .h2Heading {
+        font-size: 30px;
+    }
+    .impressionTextContent p,.departText p:nth-child(2) {
+        font-size: 16px;
+       line-height: 24px;
+    }
+    .impressionTextContent,.departSection {
+        margin: 0 25px;
+    }
+    .departContent {
+        margin-top: 30px;
+    }    
+    .departText {
+        text-align: center;
+        margin: 0 auto;
+    }
+    .newsLetter {
+        padding: 200px 0 60px;
+    }
+    .departText h2:before {
+        margin: 0 auto 40px;
+    }
+    .departImg img{
+        width: 100%;
+    }
+    .menuBtn, .sidebar{
+        display: block;
+    }
+    .menuDivs{
+        display: none;
+    }
+    .sidebar .menuDivs{
+        display: block;
+        width: 100%;
+        max-width: 100%;
+    }
+    .heroImage, .heroImage  {
+        width: 100%;
+    }
+    .featuresBox {
+        width: 100%;
+        max-width: 85%;
+    }
+    .departImg {
+        width: 100%;
+        max-width: 100%;
+    }
+    .productCard {
+        margin: 10px 10px;
+    }
+    .clientParent {
+        max-width: 300px;
+        margin: 10px 8px;
+    }
+    .newsletterField {
+        margin: 80px 20px;
+    }
+    .footerColumn {
+        max-width: 50%;
+        margin-bottom: 20px;
+    }
+    .footerColumnLast {
+        max-width: 100%;
+        width: 100%;
+    }
+    .copyRight {
+        max-width: 100%;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .socialIcons {
+        max-width: 100%;
+        width: 100%;
+        text-align: center;
+    }
+    .Navcontainer {
+        padding: 15px 20px 15px 20px;
+    }
+    .departContent {
+        width: 100%;
+        max-width: 100%;
+    }
+    .sidebar .menuItems ul li {
+        display: block;
+        padding: 20px;
+    }
+    .sidebar .menuItems, .sidebar .menuBtns {
+        width: 100%;
+        max-width: 100%;
+    }
+    .sidebar .menuBtns {
+        padding: 20px;
+    }
+    .sidebar .joinBtn {
+        border: 1px solid #fff;
+    }
+    .sidebar .menuBtns a:first-child{
+        display: block;
+    }
+    .sidebar .menuBtns a{
+        display: inline-block;
+        margin: 0 0 40px;
+    }
+}
